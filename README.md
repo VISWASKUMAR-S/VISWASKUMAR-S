@@ -24,7 +24,7 @@ I am a passionate Data Analyst with a background in Mechanical Engineering and a
 - **Description:** Predicted energy consumption of applications using regression techniques.
 - **Tools Used:** Python, Scikit-learn, Pandas, Matplotlib
 
-### 3. [Sky Analytics of Aviation](#)sadasdasdasd
+### 3. [Sky Analytics of Aviation](#)
 - **Description:** Created a dashboard to analyze aviation data including flights, airports, and airlines.
 - **Tools Used:** Excel, Power BI
 
